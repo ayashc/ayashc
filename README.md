@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="Untitled_design.png" width="100%" />
+<img src="banner.png" width="100%" />
 
 <img src="divider.png" width="80%" />
 
@@ -17,7 +17,7 @@
 <br><br>
 
 <a href="https://github.com/ayashc/eest">
-  <img src="eest_screenshot.png" width="600" />
+  <img src="img_eest_screenshot.png" width="600" />
 </a>
 
 <br><br>
