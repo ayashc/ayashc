@@ -1,10 +1,7 @@
 <div align="center">
 
-<br>
 
 <img src="title.svg" width="520" />
-
-<br><br>
 
 <img src="banner.png" width="100%" />
 
