@@ -14,7 +14,7 @@
 <br><br>
 
 <a href="https://github.com/ayashc/eest">
-  <img src="img_eest_screenshot.png" width="900" />
+  <img src="img_eest_screenshot.png" width="750" />
 </a>
 
 <br><br>
