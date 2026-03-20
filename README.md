@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="footer.png" width="450" />
+<img src="footer.png" width="275" />
 
 <br><br>
 
