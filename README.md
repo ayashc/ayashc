@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="divider.png" width="50%" />
+<img src="divider.png" width="60%" />
 
 <br>
 
