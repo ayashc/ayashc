@@ -5,7 +5,7 @@
 
 <img src="banner.png" width="100%" />
 
-<img src="divider.png" width="80%" />
+<img src="divider.png" width="85%" />
 
 <br><br>
 
